@@ -1,20 +1,13 @@
-Modern Chair
+🪑 Modern Chair
+A sleek, modern chair designed with style and comfort in mind. This project showcases the use of HTML, CSS, and JavaScript to create an interactive product showcase.
 
-A sleek and modern chair design project built with HTML, CSS, and JavaScript. This project showcases a visually appealing, responsive, and interactive modern chair design, suitable for furniture stores, interior design portfolios, or e-commerce platforms.
+🚀 Features
+Responsive Design – Works seamlessly across all devices.
+Smooth Animations – Uses CSS and JavaScript for elegant transitions.
+Interactive UI – Hover and click effects for an engaging experience.
+Minimalist Aesthetic – A clean and modern look.
 
-Features
-
-Responsive Design: Adapts to different screen sizes for a seamless experience.
-
-Interactive UI: Smooth animations and hover effects enhance user engagement.
-
-Minimalistic Aesthetics: A clean and modern design approach.
-
-Customizable Colors & Styles: Easy to modify to match brand identity.
-
-Technologies Used
-
-HTML: Structured content and layout.
-
-CSS (Tailwind CSS): Stylish and responsive design.
-
+🛠️ Technologies Used
+HTML – Structure of the webpage
+CSS (Tailwind/Custom CSS) – Styling and responsiveness
+JavaScript – Interactivity and animations
