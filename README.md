@@ -10,4 +10,4 @@ Minimalist Aesthetic – A clean and modern look.
 🛠️ Technologies Used
 HTML – Structure of the webpage
 CSS (Tailwind/Custom CSS) – Styling and responsiveness
-JavaScript – Interactivity and animations
+
